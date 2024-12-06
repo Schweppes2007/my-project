@@ -32,7 +32,7 @@ export default function App() {
     { name: "Work", isDone: false },
     { name: "Work", isDone: false },
     { name: "bts", isDone: true},
-    { name: "test", isDone: false},
+    { name: "test11", isDone: false},
   ]);
   return (
     <div>
